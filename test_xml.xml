@@ -1,8 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+ <?xml version="1.0" encoding="utf-8"?>
 <oefening title="FAQ">
   <vraag>
-    <vraagstelling>Why use this gadget?</vraagstelling>
-    <antwoord>You can showHide the answers on your faq or educational exercises. Clicking on the Question will show or hide the answer.</antwoord>
+    <vraagstelling>General Information</vraagstelling>
+    <antwoord>Personal and Contact Information<b></antwoord>
   </vraag>
   <vraag>
     <vraagstelling>But I have my own colours and fonts on my site?</vraagstelling>
