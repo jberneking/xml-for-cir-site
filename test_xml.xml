@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<oefening title="FAQ">
+  <vraag>
+    <vraagstelling>Why use this gadget?</vraagstelling>
+    <antwoord>You can showHide the answers on your faq or educational exercises. Clicking on the Question will show or hide the answer.</antwoord>
+  </vraag>
+  <vraag>
+    <vraagstelling>But I have my own colours and fonts on my site?</vraagstelling>
+    <antwoord>You can change the colours and fonts in the options dialogue of the gadget.</antwoord>
+  </vraag>
+  <vraag>
+    <vraagstelling>How do I get my QA in the gadget?</vraagstelling>
+    <antwoord>You can type a url to an xml-file in one of the options of the gadget. This xml-file has to have a specific structure.</antwoord>
+  </vraag>
+  <vraag>
+    <vraagstelling>Well, please can you give me an example of this xml-file?</vraagstelling>
+    <antwoord> Of course: http://hosting.gmodules.com/ig/gadgets/file/114039339319885904355/faq_gadget.xml</antwoord>
+  </vraag>
+</oefening>
