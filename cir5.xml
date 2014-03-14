@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<oefening title="Digital Measures Screens">
+  <vraag>
+    <vraagstelling>General Information</vraagstelling>
+    <antwoord>Personal and Contact Information&lt;br /&gt;Yearly Data (2013-2014)&lt;br/ &gt;Academic, Military, and Professional Positions&lt;br /&gt;Awards and Honors&lt;br /&gt;Education&lt;a href="http://www.google.com" target="_blank"&gt;education&lt;/a&gt;&lt;br /&gt;Faculty Development Activities Attended&lt;br /&gt;Licensures and Certifications&lt;br /&gt;Annual Goals&lt;br /&gt;</antwoord>
+  </vraag>
+  <vraag>
+    <vraagstelling>Teaching</vraagstelling>
+    <antwoord>Academic Advising&lt;br /&gt;Directed Student Learning&lt;br /&gt;Non-Credit Instruction&lt;br /&gt;Class Information&lt;br /&gt;</antwoord>
+  </vraag>
+  <vraag>
+    <vraagstelling>How do I get my QA in the gadget?</vraagstelling>
+    <antwoord>You can type a url to an xml-file in one of the options of the gadget. This xml-file has to have a specific structure.</antwoord>
+  </vraag>
+  <vraag>
+    <vraagstelling>Well, please can you give me an example of this xml-file?</vraagstelling>
+    <antwoord> Of course: http://hosting.gmodules.com/ig/gadgets/file/114039339319885904355/faq_gadget.xml</antwoord>
+  </vraag>
+</oefening>
