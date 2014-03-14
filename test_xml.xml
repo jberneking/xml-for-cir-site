@@ -1,10 +1,6 @@
  <?xml version="1.0" encoding="utf-8"?>
 <oefening title="FAQ">
   <vraag>
-    <vraagstelling>General Information</vraagstelling>
-    <antwoord>Personal and Contact Information</antwoord>
-  </vraag>
-  <vraag>
     <vraagstelling>But I have my own colours and fonts on my site?</vraagstelling>
     <antwoord>You can change the colours and fonts in the options dialogue of the gadget.</antwoord>
   </vraag>
