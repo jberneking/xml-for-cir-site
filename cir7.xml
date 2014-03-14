@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<oefening title="Digital Measures Screens">
+  <vraag>
+    <vraagstelling>&lt;b&gt;General Information&lt;/b&gt;</vraagstelling>
+    <antwoord>&lt;bulletPoint&gt;Personal and Contact Information&lt;/bulletPoint&gt;&lt;br /&gt;Yearly Data (2013-2014)&lt;br/ &gt;Academic, Military, and Professional Positions&lt;br /&gt;Awards and Honors&lt;br /&gt;Education&lt;br /&gt;Faculty Development Activities Attended&lt;br /&gt;Licensures and Certifications&lt;br /&gt;Annual Goals&lt;br /&gt;</antwoord>
+  </vraag>
+  <vraag>
+    <vraagstelling>&lt;b&gt;Teaching&lt;/b&gt;</vraagstelling>
+    <antwoord>Academic Advising&lt;br /&gt;Directed Student Learning&lt;br /&gt;Non-Credit Instruction&lt;br /&gt;Class Information&lt;br /&gt;</antwoord>
+  </vraag>
+  <vraag>
+    <vraagstelling>&lt;b&gt;Intellectual Contributions&lt;/b&gt;</vraagstelling>
+    <antwoord>Contracts, Grants, and Sponsored Research&lt;br /&gt;&lt;a href="http://www.screencast.com/t/O3A6EfYga" target="_blank"&gt;Publications&lt;/a&gt;&lt;br /&gt;Works in Progress&lt;br /&gt;</antwoord>
+  </vraag>
+  <vraag>
+    <vraagstelling>&lt;b&gt;Service&lt;/b&gt;</vraagstelling>
+    <antwoord>Editorial and Review Service Activities&lt;br /&gt;Service&lt;br /&gt;Professional Memberships&lt;br /&gt;</antwoord>
+  </vraag>
+  <vraag>
+    <vraagstelling>&lt;b&gt;Business Connections&lt;/b&gt;</vraagstelling>
+    <antwoord>Business Connections&lt;br /&gt;Consulting&lt;br /&gt;</antwoord>
+  </vraag>
+</oefening>
