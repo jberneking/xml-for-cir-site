@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<oefening title="Your Digital Measures Profile">
+  <vraag>
+    <vraagstelling>&lt;b&gt;General Information&lt;/b&gt;</vraagstelling>
+    <antwoord>&lt;i&gt;Personal and Contact Information&lt;/i&gt;&lt;br /&gt;Enter all information that you would like to appear on your CV&lt;br /&gt;&lt;div style="margin-top: 12px;"&gt;&lt;i&gt;Yearly Data (2013-2014)&lt;/i&gt;&lt;/div&gt;Enter all information that you would like to appear on your CV&lt;i&gt;&lt;div style="margin-top: 12px;"&gt;Academic, Military, and Professional Positions&lt;/i&gt;Enter all information that you would like to appear on your CV&lt;/div&gt;&lt;div style="margin-top: 12px;"&gt;&lt;i&gt;Awards and Honors&lt;/i&gt;Enter all information that you would like to appear on your CV&lt;/div&gt;&lt;div style="margin-top: 12px;"&gt;&lt;i&gt;Education&lt;/i&gt;&lt;br /&gt;Higest degree required, plus any additional information that you would like to appear on your CV&lt;/div&gt;&lt;i&gt;&lt;div style="margin-top: 12px;"&gt;Faculty Development Activities Attended&lt;/i&gt;&lt;br /&gt;Enter all information that you would like to appear on your CV&lt;/div&gt;&lt;div style="margin-top: 12px;"&gt;&lt;i&gt;Licensures and Certifications&lt;/i&gt;&lt;br /&gt;Enter all information that you would like to appear on your CV&lt;/div&gt;&lt;div style="margin-top: 12px;"&gt;&lt;i&gt;Annual Goals&lt;/i&gt;&lt;br /&gt;N/A&gt;/div&gt;</antwoord>
+  </vraag>
+  <vraag>
+    <vraagstelling>&lt;b&gt;Teaching&lt;/b&gt;</vraagstelling>
+    <antwoord>Academic Advising&lt;br /&gt;Directed Student Learning&lt;br /&gt;Non-Credit Instruction&lt;br /&gt;Class Information&lt;br /&gt;</antwoord>
+  </vraag>
+  <vraag>
+    <vraagstelling>&lt;b&gt;Intellectual Contributions&lt;/b&gt;</vraagstelling>
+    <antwoord>Contracts, Grants, and Sponsored Research&lt;br /&gt;&lt;a href="http://www.screencast.com/t/O3A6EfYga" target="_blank"&gt;Publications&lt;/a&gt;&lt;br /&gt;Works in Progress&lt;br /&gt;</antwoord>
+  </vraag>
+  <vraag>
+    <vraagstelling>&lt;b&gt;Service&lt;/b&gt;</vraagstelling>
+    <antwoord>Editorial and Review Service Activities&lt;br /&gt;Service&lt;br /&gt;Professional Memberships&lt;br /&gt;</antwoord>
+  </vraag>
+  <vraag>
+    <vraagstelling>&lt;b&gt;Business Connections&lt;/b&gt;</vraagstelling>
+    <antwoord>Business Connections&lt;br /&gt;Consulting&lt;br /&gt;</antwoord>
+  </vraag>
+</oefening>
